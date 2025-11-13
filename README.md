@@ -10,12 +10,6 @@ This repository collects hands-on examples and tutorials in both R and Python co
 - Comparison of multiple machine-learning models in Python  
 - Practical worked-examples ideal for learners who are transitioning between R and Python in data science  
 
-
-## 🎯 Who Is This For?  
-- Learners starting out in **data science** who want to see practical work in both **R** and **Python**.  
-- Students or professionals familiar with one language (say R) and looking to explore data-science workflows in the other.  
-- Anyone who prefers code-first, notebook-style learning with documented, runnable examples.
-
 ## 🚀 Getting Started  
 1. **Clone** this repository:  
    ```bash
